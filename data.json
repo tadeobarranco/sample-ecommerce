@@ -1,0 +1,72 @@
+{
+    "waltmart": {
+        "mx": {
+            "departments": {
+                "Electrodomésticos y Línea Blanca": "",
+                "Celulares, Cámaras y Casa Inteligente": "",
+                "Pantallas, Audio e Instrumentos Musicales": "",
+                "Computadoras, Papelería y Oficina": "",
+                "Videojuegos y Juguetes": "",
+                "Deportes": "",
+                "Autos y motos": "",
+                "Colchones, muebles y jardiín": "",
+                "Hogar y Ferretería": "",
+                "Moda, Belleza y Salud": "",
+                "Bebés": "",
+                "Mascotas": "",
+                "Películas, Libros y Artículos de Temporada": "",
+                "Vinos y Licores": "",
+                "Ropa y Zapatos": "",
+                "Abarrotes y Limpieza": ""
+            }
+        }
+    },
+    "amazon": {
+        "mx": {
+            "departments": {
+                "Alimentos y Bebidas": "",
+                "Libros": "",
+                "Películas, Series de TV y Música": "",
+                "Electrónicos": "",
+                "Cómputo y Tablets": "",
+                "Software": "",
+                "Videojuegos": "",
+                "Hogar, Cocina y Jardín": "",
+                "Herramientas y Mejoras del Hogar": "",
+                "Automotriz y Motocicleta": "",
+                "Juegos y Juguetes": "",
+                "Mascotas y Accesorios": "",
+                "Bebé": "",
+                "Moda": "",
+                "Bolsas, Maletas y Accesorios de Viaje": "",
+                "Hecho a Mano": "",
+                "Deportes y Aire Libre": "",
+                "Salud, Belleza y Cuidado Personal": "",
+                "Industria, Empresas y Ciencia": ""
+            }
+        }
+    },
+    "liverpool": {
+        "mx": {
+            "departments": {
+                "Mujer": "",
+                "Hombre": "",
+                "Electrónica": "",
+                "Línea Blanca y Electrodomésticos": "",
+                "Muebles": "",
+                "Deportes": "",
+                "Niños y Niñas": "",
+                "Bebés 0 - 24 Meses": "",
+                "Belleza": "",
+                "Hogar": "",
+                "Juguetes": "",
+                "Videojuegos": "",
+                "Vinos y Gourmet": "",
+                "Zapatos": "",
+                "Relojes, Lentes y Joyería": "",
+                "Otras Categorías": "",
+                "Viajes": ""
+            }
+        }
+    }
+}
